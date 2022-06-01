@@ -13,3 +13,9 @@ model = tf.keras.models.Sequential([
   tf.keras.layers.Flatten(),
   tf.keras.layers.Dense(10, activation='softmax', name='output')
 ])
+
+model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics='accuracy')
+model.summary()
+
+# Load the mnist dataset for the problem in hand
+(x_train, y_train), (x_test, y_test) = tf.keras.datasets.mnist.load_data()
