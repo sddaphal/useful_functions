@@ -1,0 +1,5 @@
+Some of the details of your proposal like Project Title (max 500 characters), 
+Project summary (max 3000 characters), Keywords (max 6), Objectives of the project (max 1500 characters),
+Expected output, and outcome of the proposal (max 1500 characters), 
+Budget (Research Personnel, Consumables, Travel, Equipment, Contingency, Overhead) 
+have to be entered at the time of proposal submission.
